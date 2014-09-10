@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_game">Start Game</string>
+    <string name="welcome"><b>Welcome to Blythe\'s Princesses Memory Game</b></string>
+    <string name="statement">I love playing with games Daddy made for me</string>
+    <string name="wish">Have fun playing the game</string>
+    <string name="app_name">Blythe\'s Princess Game</string>
+</resources>
